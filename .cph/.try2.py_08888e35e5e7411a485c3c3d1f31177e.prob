@@ -1,0 +1,1 @@
+{"name":"Local: try2","url":"/Users/macbookpro/Desktop/skill excellarator/try2.py","tests":[{"id":1749791759926,"input":"6\n1 2 3 'abc' True 'd'","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/macbookpro/Desktop/skill excellarator/try2.py","group":"local","local":true}

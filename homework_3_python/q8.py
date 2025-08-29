@@ -1,0 +1,27 @@
+import sys
+import math
+import bisect
+import heapq
+import itertools
+import collections
+import functools
+import operator
+import threading
+
+input = lambda: sys.stdin.readline().strip()
+print = lambda *args, **kwargs: __builtins__.print(*args, **kwargs, flush=True)
+
+def main():
+    patients = [
+    {'name': 'Amit', 'bp': 120},
+    {'name': 'Sara', 'bp': 140},
+    {'name': 'Mike', 'bp': 130}
+    ]
+    ans = []
+    for i in patients:
+        if(i['bp']<130):
+            ans.append(i['name'])
+    print(ans)
+    pass
+
+threading.Thread(target=main).start() #for increasing stack size for recurrsion

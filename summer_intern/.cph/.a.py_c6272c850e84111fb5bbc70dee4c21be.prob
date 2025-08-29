@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/Users/macbookpro/Desktop/skill excellarator/summer_intern/a.py","tests":[{"id":1751688194714,"input":"ABCDEF\nGCDEHI","output":"CDE\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/macbookpro/Desktop/skill excellarator/summer_intern/a.py","group":"local","local":true}

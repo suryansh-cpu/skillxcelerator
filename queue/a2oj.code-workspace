@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "a2oj",
+			"path": "../../a2oj"
+		},
+		{
+			"name": "contest",
+			"path": "../../../contest"
+		},
+		{
+			"name": "skill excellarator",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"string": "cpp"
+		}
+	}
+}
